@@ -1,0 +1,18 @@
+#header1{
+    color:#47577c;
+}
+#div1{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black
+}
+#div2{
+    height: 0px;
+    width: 0px;
+    border: 2px solid #a03a3a
+}
+#div3{
+    height: 0px;
+    width: 0px;
+    border: 2px solid #151414
+}
